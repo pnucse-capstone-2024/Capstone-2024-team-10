@@ -9,11 +9,13 @@
 
 ### 2. 상세설계
 #### 2.1. 시스템 구성도
-> ![시스템 구성도](/구성도.png)
+> ![구성도](https://github.com/user-attachments/assets/6a8f1057-b0ba-45b7-b218-a444a2a95f85)
+
 
 #### 2.1. 사용 기술
 > Backend
 > - Python 3.10.9
+
 > - MongoDB 7.0.12
 > - fastAPI 0.110.3  
 > - pip 23.0.1
