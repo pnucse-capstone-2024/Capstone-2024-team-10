@@ -27,12 +27,12 @@
 ### 3. 설치 및 사용 방법
 > 1. 저장소 클론
 > ```bash
-> git clone 저장소.git
-> cd 저장소이름
+> git clone https://github.com/pnucse-capstone-2024/Capstone-2024-team-10.git
+> cd Capstone-2024-team-10
 > ```
 > 2. dependency 설치
 > ```bash
-> cd (package.json있는곳)
+> cd wanted_frontend
 > npm install
 > pip install pipenv
 > pipenv --python 3.10
