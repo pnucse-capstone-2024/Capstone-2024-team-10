@@ -56,7 +56,7 @@
 > 4. https://localhost:8080 접속
 
 ### 4. 소개 및 시연 영상
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s?si=Ha4Ir-AwNqa0isQ-/0.jpg)](https://youtu.be/qcfqT90HA1s?si=Ha4Ir-AwNqa0isQ-)
+> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/0.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
 
 ### 5. 팀 소개
 >  김정민
