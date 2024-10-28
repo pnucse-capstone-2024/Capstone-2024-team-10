@@ -56,15 +56,8 @@
 > 4. https://localhost:8080 접속
 
 ### 4. 소개 및 시연 영상
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/0.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/1.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/2.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/3.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/4.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/5.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/6.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/7.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
-> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/8.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
+<!-- [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/0.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s) -->
+> [2024년 전기 졸업과제 10 원티드](https://www.youtube.com/watch?v=qcfqT90HA1s)
 
 ### 5. 팀 소개
 >  김정민
