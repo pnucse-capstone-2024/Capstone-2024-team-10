@@ -61,6 +61,10 @@
 > [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/2.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
 > [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/3.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
 > [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/4.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
+> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/5.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
+> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/6.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
+> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/7.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
+> [![2024년 전기 졸업과제 10 원티드](http://img.youtube.com/vi/qcfqT90HA1s/8.jpg)](https://www.youtube.com/watch?v=qcfqT90HA1s)
 
 ### 5. 팀 소개
 >  김정민
