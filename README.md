@@ -15,7 +15,6 @@
 #### 2.1. 사용 기술
 > Backend
 > - Python 3.10.9
-
 > - MongoDB 7.0.12
 > - fastAPI 0.110.3  
 > - pip 23.0.1
