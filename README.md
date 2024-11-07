@@ -60,7 +60,7 @@
 
 ### 5. 팀 소개
 >  김정민
->> 모델 튜닝, DB구축, fronted 개발
+>> 모델 튜닝, DB구축, backend 개발
 >>
 >> Email: jmk445@pusan.ac.kr
 >>
@@ -70,6 +70,6 @@
 >> Email: ahdzl126@pusan.ac.kr
 >>
 >  이창욱
->> 추론 코드 개발, backend 개발
+>> 추론 코드 개발, backend 개발, frontend 개발
 >>
 >> Email: ckddnr5527@pusan.ac.kr
